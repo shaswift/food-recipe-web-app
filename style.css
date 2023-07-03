@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,400;1,600&display=swap');
+ body{
+    background-color: rgb(223, 232, 236);
+    
+
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 250px;
+}
+p{width: 250px;
+    text-align: center;
+   
+}
+   .main{
+    margin:0 auto;
+    display: flex;
+   }
+   .container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+   }
+   h3{
+    font-size: xx-large;
+   }
+   
